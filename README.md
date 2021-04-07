@@ -12,7 +12,7 @@ Sou um estudante apaixonado por novas tecnologias, resolver problemas utilizando
  
  ### Conecte-se a mim:
 
-<!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
+[<img align="left" alt="codeSTACKr | LinkedIn" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 
 
 [instagram]: https://www.instagram.com/vitor.cavalcante.7146
-<!-- [linkedin]:  -->
+[linkedin]:  https://www.linkedin.com/in/vitor-silva-cavalcante-1b309020b/
