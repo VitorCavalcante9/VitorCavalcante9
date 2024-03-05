@@ -5,7 +5,7 @@
 Sou um estudante apaixonado por novas tecnologias, resolver problemas utilizando a programação é uma das coisas que mais me satisfaz!!
 
  <br/> 🔭 &nbsp; Atualmente focado em aprender tudo sobre JS (React, Node, TS).
- <br/> :computer: &nbsp; Metas para 2022: Aprofundar meu conhecimento no desenvolvimento web e melhorar a qualidade do meu código. &nbsp; 
+ <br/> :computer: &nbsp; Metas para 2023: Aprofundar meu conhecimento no desenvolvimento web e melhorar a qualidade do meu código. &nbsp; 
  <br/> :purple_heart: &nbsp; Pretendo colaborar com projetos da maneira que eu puder.
  <br/> 💬  &nbsp; Sobre mim: Adoro animes :tv:, ouvir musica :headphones:, academia :muscle: e vôlei 🏐.
  
