@@ -2,12 +2,13 @@
 
 ## Olá, dev! 👋
 
-Sou um estudante apaixonado por novas tecnologias, resolver problemas utilizando a programação é uma das coisas que mais me satisfaz!!
+Sou um desenvolvedor e estudante apaixonado por novas tecnologias, resolver problemas utilizando a programação é uma das coisas que mais me satisfaz!!
+Atualmente sou formado em Sistemas de Informação pela USP e pretendo fazer pós-graduação!!!
 
  <br/> 🔭 &nbsp; Atualmente focado em aprender tudo sobre JS (React, Node, TS).
- <br/> :computer: &nbsp; Metas para 2023: Aprofundar meu conhecimento no desenvolvimento web e melhorar a qualidade do meu código. &nbsp; 
+ <br/> :computer: &nbsp; Metas para 2025: Aprofundar meu conhecimento técnico para me tornar um desenvolvedor fullstack bem estabelecido &nbsp; 
  <br/> :purple_heart: &nbsp; Pretendo colaborar com projetos da maneira que eu puder.
- <br/> 💬  &nbsp; Sobre mim: Adoro animes :tv:, ouvir musica :headphones:, academia :muscle: e vôlei 🏐.
+ <br/> 💬  &nbsp; Sobre mim: Adoro animes :tv:, ouvir musica :headphones: e sou nerd de musculação :muscle:.
  
  
  ### Conecte-se a mim:
@@ -23,10 +24,12 @@ Sou um estudante apaixonado por novas tecnologias, resolver problemas utilizando
 <img align="left" alt="JavaScript" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="NestJS" width="45" height="auto" src="https://nestjs.com/logo-small-gradient.d792062c.svg" />
 <img align="left" alt="Python" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Java" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="C#" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="C" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img align="left" alt="Docker" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="MySQL" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="PostgreSQL" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Visual Studio Code" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -35,11 +38,9 @@ Sou um estudante apaixonado por novas tecnologias, resolver problemas utilizando
 
 <br />
 <br />
-
- ##
  
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vitorcavalcante9&show_icons=true&theme=dark&count_private=true)
-
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vitorcavalcante9&show_icons=true&theme=dark&count_private=true)
+-->
 <!--
 **VitorCavalcante9/VitorCavalcante9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -56,5 +57,5 @@ Here are some ideas to get you started:
 -->
 
 
-[instagram]: https://www.instagram.com/vitor.cavalcante.7146
+[instagram]: https://www.instagram.com/v.cavalcante9
 [linkedin]:  https://www.linkedin.com/in/vitor-silva-cavalcante-1b309020b/
