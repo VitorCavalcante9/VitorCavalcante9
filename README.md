@@ -3,10 +3,10 @@
 ## Olá, dev! 👋
 
 Sou um desenvolvedor e estudante apaixonado por novas tecnologias, resolver problemas utilizando a programação é uma das coisas que mais me satisfaz!!
-<br/>Atualmente sou formado em Sistemas de Informação pela USP e pretendo fazer pós-graduação!!!
+<br/>Atualmente sou formado em Sistemas de Informação pela USP e continuo estudando por conta, porque conhecimento nunca é demais!!!
 
  <br/> 🔭 &nbsp; Atualmente focado em aprender tudo sobre JS (React, Node, TS).
- <br/> :computer: &nbsp; Metas para 2025: Aprofundar meu conhecimento técnico para me tornar um desenvolvedor fullstack bem estabelecido. &nbsp; 
+ <br/> :computer: &nbsp; Metas para 2026: Aprofundar meu conhecimento técnico para me tornar um desenvolvedor fullstack bem estabelecido. &nbsp; 
  <br/> :purple_heart: &nbsp; Pretendo colaborar com projetos da maneira que eu puder.
  <br/> 💬  &nbsp; Sobre mim: Adoro animes :tv:, ouvir musica :headphones: e sou nerd de musculação :muscle:.
  
